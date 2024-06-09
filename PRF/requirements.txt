@@ -1,0 +1,8 @@
+pandas
+pyarrow
+chardet
+numpy
+selenium
+requests
+bs4
+pyspark==3.5.0
